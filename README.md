@@ -7,3 +7,4 @@ sweeping strategies for [Omics Integrator](https://github.com/fraenkel-lab/Omics
 - [CS 638 pandas and Jupyter notebook tutorial links](https://sites.google.com/site/anhaidgroup/courses/cs-638-fall-2016/resources)
 - [Git book](https://git-scm.com/book/en/v2)
 - [Software Carpentry lessons on Git and Python](http://software-carpentry.org/lessons/)
+- [Matplotlib tutorial](http://jakevdp.github.io/mpl_tutorial/tutorial_pages/tut1.html)
