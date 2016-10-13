@@ -1,0 +1,4 @@
+*.sw[o-z]
+.ipynb_checkpoints
+__pycache__
+*.pyc
