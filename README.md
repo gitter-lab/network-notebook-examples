@@ -2,9 +2,6 @@
 The ultimate goal is to develop network summarization and parameter
 sweeping strategies for [Omics Integrator](https://github.com/fraenkel-lab/OmicsIntegrator).
 
-## Making changes to Git repositories
-Making different changes in master
-
 ## Resources
 - [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 - [CS 638 pandas and Jupyter notebook tutorial links](https://sites.google.com/site/anhaidgroup/courses/cs-638-fall-2016/resources)
