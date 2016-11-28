@@ -1,16 +1,15 @@
-D C {}
-D F {}
-D E {}
-D B {}
-F C {}
-F E {}
-F B {}
-F G {}
-E B {}
-E C {}
-B C {}
-G L {}
-G J {}
-G K {}
-G I {}
-G H {}
+#C:\Users\George-i7\Anaconda3\lib\site-packages\ipykernel\__main__.py -f C:\Users\George-i7\AppData\Roaming\jupyter\runtime\kernel-f99235ab-cbde-44bb-a7e7-1781eae11eaf.json
+# GMT Mon Nov 28 02:29:41 2016
+# 
+E C B D F
+H G
+L G
+D C B A F
+A
+J G
+K G
+C B F
+B F
+G I F
+F
+I

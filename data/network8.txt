@@ -1,25 +1,25 @@
-E Z {}
-E X {}
-E J {}
-E P {}
-E O {}
-P Q {}
-I U {}
-O J {}
-O O {}
-L H {}
-L X {}
-U H {}
-J N {}
-X F {}
-X Q {}
-X Z {}
-X H {}
-C T {}
-C H {}
-F N {}
-F H {}
-Q H {}
-Q T {}
-A B {}
-Z Z {}
+#C:\Users\George-i7\Anaconda3\lib\site-packages\ipykernel\__main__.py -f C:\Users\George-i7\AppData\Roaming\jupyter\runtime\kernel-f99235ab-cbde-44bb-a7e7-1781eae11eaf.json
+# GMT Mon Nov 28 02:29:42 2016
+# 
+Y E H
+E T P F
+U I
+Z X P S
+N Q O
+A C I B
+X B W
+H T P
+L T P J
+I J F
+S
+J O
+T T
+P
+W
+K Q
+R O
+C
+Q
+O
+F
+B

@@ -1,8 +1,11 @@
-D C {}
-D E {}
-F E {}
-F G {}
-E G {}
-A B {}
-B C {}
-G H {}
+#C:\Users\George-i7\Anaconda3\lib\site-packages\ipykernel\__main__.py -f C:\Users\George-i7\AppData\Roaming\jupyter\runtime\kernel-f99235ab-cbde-44bb-a7e7-1781eae11eaf.json
+# GMT Mon Nov 28 02:29:40 2016
+# compose( ,  )
+E G D F
+H G
+C B D
+B A
+A
+G F
+D
+F
