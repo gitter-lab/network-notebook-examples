@@ -1,0 +1,27 @@
+Student initials	Year	Major	Homework 1	Homework 2	Homework 3	Homework 4	Exam 1	Exam 2	Project
+AA	Freshman	CS	2.0	2.0	1.0	2.0	12.0	6.0	17.0
+BB	Freshman	CS	0.0	1.0	3.0	2.0	9.0	6.0	8.0
+CC	Freshman	CS	3.0	2.0	3.0	3.0	12.0	14.0	14.0
+DD	Freshman	Biology	1.0	1.0	0.0	3.0	13.0	14.0	5.0
+EE	Freshman	Biology	1.0	1.0	2.0	0.0	8.0	8.0	6.0
+FF	Sophomore	Biology	3.0	4.0	3.0	2.0	6.0	13.0	20.0
+GG	Sophomore	Dance	4.0	4.0	4.0	5.0	21.0	25.0	30.0
+HH	Junior	CS	4.0	3.0	1.0	1.0	9.0	23.0	30.0
+II	Junior	Biology	4.0	2.0	5.0	1.0	6.0	18.0	24.0
+JJ	Junior	Biology	3.0	3.0	4.0	1.0	24.0	16.0	16.0
+KK	Junior	CS	2.0	3.0	5.0	1.0	25.0	13.0	22.0
+LL	Senior	Biology	4.0	5.0	3.0	4.0	18.0	13.0	19.0
+MM	Senior	CS	4.0	2.0	3.0	5.0	5.0	10.0	16.0
+NN	Senior	CS	1.0	4.0	1.0	2.0	6.0	17.0	28.0
+OO	Junior	Dance	5.0	4.0	4.0	5.0	20.0	20.0	30.0
+PP	Sophomore	CS	3.0	4.0	2.0	5.0	22.0	16.0	18.0
+QQ	Sophomore	CS	3.0	4.0	3.0	5.0	22.0	15.0	19.0
+RR	Sophomore	Dance	4.0	5.0	5.0	4.0	21.0	24.0	26.0
+SS	Senior	Dance	5.0	4.0	5.0	5.0	21.0	22.0	30.0
+TT	Junior	Biology	2.0	1.0	3.0	1.0	25.0	9.0	16.0
+UU	Freshman	Biology	3.0	0.0	0.0	1.0	14.0	6.0	18.0
+VV	Freshman	CS	1.0	0.0	2.0	2.0	15.0	13.0	17.0
+WW	Freshman	CS	1.0	2.0	1.0	1.0	11.0	11.0	6.0
+XX	Senior	CS	3.0	4.0	2.0	3.0	21.0	10.0	26.0
+YY	Sophomore	Biology	5.0	5.0	3.0	5.0	14.0	22.0	27.0
+ZZ	Junior	CS	5.0	3.0	1.0	1.0	13.0	25.0	20.0
