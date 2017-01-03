@@ -9,3 +9,4 @@ sweeping strategies for [Omics Integrator](https://github.com/fraenkel-lab/Omics
 - [Interactive git tutorial](http://try.github.io/)
 - [Software Carpentry lessons on Git and Python](http://software-carpentry.org/lessons/)
 - [Matplotlib tutorial](http://jakevdp.github.io/mpl_tutorial/tutorial_pages/tut1.html)
+- [Pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
