@@ -1,6 +1,5 @@
-# Code and examples for Fall 2016 CS 298
-The ultimate goal is to develop network summarization and parameter
-sweeping strategies for [Omics Integrator](https://github.com/fraenkel-lab/OmicsIntegrator).
+# Code and examples for pandas and networkx
+Examples to learn functions in Python packages that are useful in network analysis.
 
 ## Resources
 - [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
